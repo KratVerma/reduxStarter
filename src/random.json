@@ -1,0 +1,34 @@
+{
+  "event": {
+    "eventItems": [
+      {
+        "date": "2024-02-08",
+        "description": "wewew wew",
+        "id": "117d952c-7b2d-48ce-9fe5-f3c260c0cc5f",
+        "image": "https://www.adobe.com/content/dam/www/us/en/events/overview-page/eventshub_evergreen_opengraph_1200x630_2x.jpg",
+        "title": "ss123a"
+      },
+      {
+        "date": "2024-02-01",
+        "description": "Awsome Event",
+        "id": "c3a60283-7a7e-40be-9f0d-d2ee99332398",
+        "image": "https://www.adobe.com/content/dam/www/us/en/events/overview-page/eventshub_evergreen_opengraph_1200x630_2x.jpg",
+        "title": "Comedy Show"
+      },
+      {
+        "date": "2023-02-22",
+        "description": "Join this amazing event and connect with fellow developers.",
+        "id": "e112123123123",
+        "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+        "title": "A dummy event"
+      },
+      {
+        "date": "2023-02-22",
+        "description": "Join velopers.",
+        "id": "e1234krat",
+        "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+        "title": "this is krat"
+      }
+    ]
+  }
+}
